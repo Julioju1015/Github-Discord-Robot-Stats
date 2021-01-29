@@ -45,7 +45,7 @@ Pour voir toutes les commandes :
 
 ---
 
-<sup>👾 Je suis un Robot. En cas de problème, contactez moi ici [Discord](https://julioju.fr)</sup>
+<sup>👾 Je suis un Robot. En cas de problème, contactez moi ici [mon Site](https://julioju.fr)</sup>
 
 
 ## 🟢 | Démarrage <a name = "getting_started"></a>
